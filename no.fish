@@ -1,6 +1,7 @@
 #!/bin/sh
 
-echo "This script will install nofish (nfish) in the proper location"
+gcc -o nfish nfish.c
+cp nfish nofish
 
 # Define the location where the binaries will be installed
 INSTALL_DIR="/usr/local/bin"
