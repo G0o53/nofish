@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-- gcc
+- [gcc](https://gcc.gnu.org/install/)
 - [git](https://git-scm.com/downloads)
 
 ## Installation
