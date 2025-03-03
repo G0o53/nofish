@@ -2,7 +2,8 @@
 
 ## Dependencies
 
-- [gcc]
+- gcc
+- [git](https://git-scm.com/downloads)
 
 ## Installation
 
